@@ -1,3 +1,0 @@
-# I/O with basic files in Python 
-this is a text file 
-this is the second line
