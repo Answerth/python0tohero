@@ -1,3 +1,24 @@
+    # mylist = [0, 0, 0]
+    # for x in range(0,255,5): 
+    #     if mylist[0] <= 255:
+    #         #print('color: {n}'.format(n=int(x/5)+1)) #print('{n} is {a} years old.'.format(n=name,a=age))
+    #         print("img = Image.new('RGB', (6000, 3376), (")
+    #         mylist[0] += 5
+            
+    #         mylist[1] += 5
+    #         mylist[2] += 5
+    #     print(mylist)
+        
+    # #print(mylist)
+
+
+
+
+
+
+
+
+
 from PIL import Image
 x = 1
 
